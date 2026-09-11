@@ -7,5 +7,3 @@ permalink: /about/
 # About Me
 
 Write your page content here (Markdown or HTML).
-
-![Example image](/Assets/Pictures/example.png)
