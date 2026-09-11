@@ -1,0 +1,16 @@
+# Dakota Justus
+
+The epicenter of all that I have worked on.
+
+## Projects
+
+### Project G
+
+PROJECT G — Survival Horror Game
+PROJECT G is a survival horror experience set in an abandoned biotech labyrinth created as part of the Jamsepticeye game jam hosted by Jacksepticeye and DuckyDev
+
+**Tags:** `Unity` `C#`
+
+> This never went past alpha testing and bugs may be present. 
+
+[Play on itch.io](https://marvelsever.itch.io/project-g)
