@@ -8,7 +8,8 @@ The epicenter of all that I have worked on.
 
 PROJECT G — Survival Horror Game
 PROJECT G is a survival horror experience set in an abandoned biotech labyrinth created as part of the Jamsepticeye game jam hosted by Jacksepticeye and DuckyDev
-
+/Pictures/projectg00.png
+/Pictures/projectg01.png
 **Tags:** `Unity` `C#`
 
 > This never went past alpha testing and bugs may be present. 
