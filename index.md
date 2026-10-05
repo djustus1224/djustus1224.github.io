@@ -6,7 +6,7 @@ The epicenter of all that I have worked on.
 
 ### Project G
 
-PROJECT G — Survival Horror Game
+PROJECT G — Survival Horror Game  
 PROJECT G is a survival horror experience set in an abandoned biotech labyrinth created as part of the Jamsepticeye game jam hosted by Jacksepticeye and DuckyDev
 <div class="project-gallery">
   <figure>
@@ -39,7 +39,8 @@ PROJECT G is a survival horror experience set in an abandoned biotech labyrinth 
   display: block;
   width: 100%;
   height: 220px;
-  object-fit: cover;
+ object-fit: contain;
+background-color: #111;
   border-radius: 8px;
   border: 1px solid #444;
 }
@@ -58,7 +59,7 @@ PROJECT G is a survival horror experience set in an abandoned biotech labyrinth 
 
 ### Bit Battle
 
-Bit Battle — 8-bit Card Game
+Bit Battle — 8-bit Card Game  
 Bit Battle is a short, quick-paced card game with custom pixel sprite art done by yours truly!
 
 > This is meant to be a short display of sprite creation capabilities. 
@@ -93,7 +94,8 @@ Bit Battle is a short, quick-paced card game with custom pixel sprite art done b
   display: block;
   width: 100%;
   height: 220px;
-  object-fit: cover;
+  object-fit: contain;
+background-color: #111;
   border-radius: 8px;
   border: 1px solid #444;
 }
@@ -105,3 +107,27 @@ Bit Battle is a short, quick-paced card game with custom pixel sprite art done b
 }
 </style>
 [Find it on Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3480712394)
+
+### Traversal Landscape
+
+Traversal Landscape — Survival Horror Game  
+PROJECT G is a survival horror experience set in an abandoned biotech labyrinth created as part of the Jamsepticeye game jam hosted by Jacksepticeye and DuckyDev
+
+
+### Poppy Playtime Whitebox
+
+Playtime Whitebox — Survival Horror Game  
+PROJECT G is a survival horror experience set in an abandoned biotech labyrinth created as part of the Jamsepticeye game jam hosted by Jacksepticeye and DuckyDev
+
+
+### Central Firmament
+
+Central Firmament — Survival Horror Game  
+PROJECT G is a survival horror experience set in an abandoned biotech labyrinth created as part of the Jamsepticeye game jam hosted by Jacksepticeye and DuckyDev
+
+
+### Captain Cosmo Character Model
+
+Cosmo Character — Survival Horror Game  
+PROJECT G is a survival horror experience set in an abandoned biotech labyrinth created as part of the Jamsepticeye game jam hosted by Jacksepticeye and DuckyDev
+
