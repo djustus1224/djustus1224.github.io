@@ -39,7 +39,8 @@ PROJECT G is a survival horror experience set in an abandoned biotech labyrinth 
   display: block;
   width: 100%;
   height: 220px;
-  object-fit: cover;
+ object-fit: contain;
+background-color: #111;
   border-radius: 8px;
   border: 1px solid #444;
 }
@@ -93,7 +94,8 @@ Bit Battle is a short, quick-paced card game with custom pixel sprite art done b
   display: block;
   width: 100%;
   height: 220px;
-  object-fit: cover;
+  object-fit: contain;
+background-color: #111;
   border-radius: 8px;
   border: 1px solid #444;
 }
