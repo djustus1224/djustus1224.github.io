@@ -20,6 +20,18 @@ PROJECT G is a survival horror experience set in an abandoned biotech labyrinth 
          alt="Project G gameplay screenshot 2">
     <figcaption>Project G environment</figcaption>
   </figure>
+
+    <figure>
+    <img src="{{ '/Pictures/projectg03.png' | relative_url }}"
+         alt="Project G gameplay screenshot 2">
+    <figcaption>Project G environment</figcaption>
+  </figure>
+
+    <figure>
+    <img src="{{ '/Pictures/projectg4.png' | relative_url }}"
+         alt="Project G gameplay screenshot 2">
+    <figcaption>Project G environment</figcaption>
+  </figure>
 </div>
 
 <style>
