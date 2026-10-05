@@ -12,25 +12,25 @@ PROJECT G is a survival horror experience set in an abandoned biotech labyrinth 
   <figure>
     <img src="{{ '/Pictures/projectg00.png' | relative_url }}"
          alt="Project G Development">
-    <figcaption>Project G gameplay</figcaption>
+    <figcaption>Project G Development</figcaption>
   </figure>
 
   <figure>
     <img src="{{ '/Pictures/projectg01.png' | relative_url }}"
          alt="Project G Development">
-    <figcaption>Project G environment</figcaption>
+    <figcaption>Project G Development</figcaption>
   </figure>
 
     <figure>
     <img src="{{ '/Pictures/projectg03.png' | relative_url }}"
          alt="Project G Final Render">
-    <figcaption>Project G environment</figcaption>
+    <figcaption>Project G Final Render</figcaption>
   </figure>
 
     <figure>
     <img src="{{ '/Pictures/projectg4.png' | relative_url }}"
          alt="Project G Final Render">
-    <figcaption>Project G environment</figcaption>
+    <figcaption>Project G Final Render</figcaption>
   </figure>
 </div>
 
@@ -79,13 +79,13 @@ Bit Battle is a short, quick-paced card game with custom pixel sprite art done b
   <figure>
     <img src="{{ '/Pictures/PixelDragon.png' | relative_url }}"
          alt="Project G gameplay screenshot 1">
-    <figcaption>Project G gameplay</figcaption>
+    <figcaption>Example Sprite</figcaption>
   </figure>
 
   <figure>
     <img src="{{ '/Pictures/PixelKnight.png' | relative_url }}"
          alt="Project G gameplay screenshot 2">
-    <figcaption>Project G environment</figcaption>
+    <figcaption>Example Sprite</figcaption>
   </figure>
 </div>
 
@@ -129,25 +129,25 @@ PROJECT G is a survival horror experience set in an abandoned biotech labyrinth 
   <figure>
     <img src="{{ '/Pictures/landscape00.png' | relative_url }}"
          alt="Traversal Landscape">
-    <figcaption>Project G gameplay</figcaption>
+    <figcaption>Traversal Landscape</figcaption>
   </figure>
 
   <figure>
     <img src="{{ '/Pictures/landscape01.png' | relative_url }}"
          alt="Traversal Landscape">
-    <figcaption>Project G environment</figcaption>
+    <figcaption>Traversal Landscape</figcaption>
   </figure>
 
     <figure>
     <img src="{{ '/Pictures/landscape02.png' | relative_url }}"
          alt="Traversal Landscape">
-    <figcaption>Project G environment</figcaption>
+    <figcaption>Traversal Landscape</figcaption>
   </figure>
 
     <figure>
     <img src="{{ '/Pictures/landscape03.png' | relative_url }}"
          alt="Traversal Landscape">
-    <figcaption>Project G environment</figcaption>
+    <figcaption>Traversal Landscape</figcaption>
   </figure>
 </div>
 
@@ -191,31 +191,31 @@ PROJECT G is a survival horror experience set in an abandoned biotech labyrinth 
   <figure>
     <img src="{{ '/Pictures/poppy00.png' | relative_url }}"
          alt="Starting Area">
-    <figcaption>Project G gameplay</figcaption>
+    <figcaption>Starting Area</figcaption>
   </figure>
 
   <figure>
     <img src="{{ '/Pictures/poppy01.png' | relative_url }}"
          alt="Starting Area">
-    <figcaption>Project G environment</figcaption>
+    <figcaption>Starting Area</figcaption>
   </figure>
 
     <figure>
     <img src="{{ '/Pictures/poppy02.png' | relative_url }}"
          alt="Starting Area">
-    <figcaption>Project G environment</figcaption>
+    <figcaption>Starting Area</figcaption>
   </figure>
 
     <figure>
     <img src="{{ '/Pictures/poppy03.png' | relative_url }}"
          alt="Starting Area">
-    <figcaption>Project G environment</figcaption>
+    <figcaption>Starting Area</figcaption>
   </figure>
 
   <figure>
     <img src="{{ '/Pictures/poppy04.png' | relative_url }}"
          alt="Starting Area">
-    <figcaption>Project G environment</figcaption>
+    <figcaption>Starting Area</figcaption>
   </figure>
 </div>
 
@@ -258,25 +258,25 @@ PROJECT G is a survival horror experience set in an abandoned biotech labyrinth 
   <figure>
     <img src="{{ '/Pictures/space00.png' | relative_url }}"
          alt="Hallway">
-    <figcaption>Project G gameplay</figcaption>
+    <figcaption>Hallway</figcaption>
   </figure>
 
   <figure>
     <img src="{{ '/Pictures/space01.png' | relative_url }}"
          alt="Map Top View">
-    <figcaption>Project G environment</figcaption>
+    <figcaption>Map Top View</figcaption>
   </figure>
 
     <figure>
     <img src="{{ '/Pictures/space02.png' | relative_url }}"
          alt="Console and Enemy">
-    <figcaption>Project G environment</figcaption>
+    <figcaption>Console and Enemy</figcaption>
   </figure>
 
     <figure>
     <img src="{{ '/Pictures/space03.png' | relative_url }}"
          alt="Lower Room">
-    <figcaption>Project G environment</figcaption>
+    <figcaption>Lower Room</figcaption>
   </figure>
 </div>
 
@@ -321,7 +321,7 @@ PROJECT G is a survival horror experience set in an abandoned biotech labyrinth 
   <figure>
     <img src="{{ '/Pictures/cosmo00.png' | relative_url }}"
          alt="Commander Cosmo UVs and Model">
-    <figcaption>Project G gameplay</figcaption>
+    <figcaption>Commander Cosmo UVs and Model</figcaption>
   </figure>
 </div>
 
