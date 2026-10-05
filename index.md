@@ -7,7 +7,7 @@ The epicenter of all that I have worked on.
 ### Project G
 
 PROJECT G — Survival Horror Game  
-PROJECT G is a survival horror experience set in an abandoned biotech labyrinth created as part of the Jamsepticeye game jam hosted by Jacksepticeye and DuckyDev
+PROJECT G is a survival horror experience set in an abandoned biotech labyrinth created as part of the Jamsepticeye game jam hosted by Jacksepticeye and DuckyDev.
 <div class="project-gallery">
   <figure>
     <img src="{{ '/Pictures/projectg00.png' | relative_url }}"
@@ -122,8 +122,8 @@ background-color: #111;
 
 ### Traversal Landscape
 
-Traversal Landscape — Survival Horror Game  
-PROJECT G is a survival horror experience set in an abandoned biotech labyrinth created as part of the Jamsepticeye game jam hosted by Jacksepticeye and DuckyDev
+Traversal Landscape — A Desolate Land  
+This Traversal Landscape project was created to demonstrate knowledge of level and puzzle design, specifically within Unreal Engine 5.
 
 <div class="project-gallery">
   <figure>
@@ -185,8 +185,8 @@ background-color: #111;
 
 ### Poppy Playtime Whitebox
 
-Playtime Whitebox — Survival Horror Game  
-PROJECT G is a survival horror experience set in an abandoned biotech labyrinth created as part of the Jamsepticeye game jam hosted by Jacksepticeye and DuckyDev
+Playtime Whitebox — Mimicry is Flattery 
+This Poppy Playtime Whitebox is meant to demonstrate the ability to create areas and levels via references - whether that be from real life or other video games. (Note, a whitebox is used in level protoytyping and often times looks a bit crude, and is used primarily for idea exploration.)
 <div class="project-gallery">
   <figure>
     <img src="{{ '/Pictures/poppy00.png' | relative_url }}"
@@ -251,8 +251,8 @@ background-color: #111;
 
 ### Central Firmament
 
-Central Firmament — Survival Horror Game  
-PROJECT G is a survival horror experience set in an abandoned biotech labyrinth created as part of the Jamsepticeye game jam hosted by Jacksepticeye and DuckyDev
+Central Firmament — Space Extraction  
+Central Firmament was created by me and a small group of fellow students, with all of the map and models (save the enemy/player model, which was a prefab) being created by me.
 
 <div class="project-gallery">
   <figure>
@@ -312,10 +312,10 @@ background-color: #111;
 
 [GitHub Repo](https://github.com/connoryesukaitis-cmd/Central_Firmament)
 
-### Captain Cosmo Character Model
+### Commander Cosmo Character Model
 
-Cosmo Character — Survival Horror Game  
-PROJECT G is a survival horror experience set in an abandoned biotech labyrinth created as part of the Jamsepticeye game jam hosted by Jacksepticeye and DuckyDev
+Cosmo Character — Basic HUmanoid Model  
+Commander Cosmo is a demonstration of creating low poly. humanoid characters for video game use.
 
 <div class="project-gallery">
   <figure>
