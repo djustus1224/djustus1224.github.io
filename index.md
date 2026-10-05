@@ -8,8 +8,48 @@ The epicenter of all that I have worked on.
 
 PROJECT G — Survival Horror Game
 PROJECT G is a survival horror experience set in an abandoned biotech labyrinth created as part of the Jamsepticeye game jam hosted by Jacksepticeye and DuckyDev
-![Project G screenshot 1]({{ "/Pictures/projectg00.png" | relative_url }})
-![Project G screenshot 2]({{ "/Pictures/projectg01.png" | relative_url }})
+<div class="project-gallery">
+  <figure>
+    <img src="{{ '/Pictures/projectg00.png' | relative_url }}"
+         alt="Project G gameplay screenshot 1">
+    <figcaption>Project G gameplay</figcaption>
+  </figure>
+
+  <figure>
+    <img src="{{ '/Pictures/projectg01.png' | relative_url }}"
+         alt="Project G gameplay screenshot 2">
+    <figcaption>Project G environment</figcaption>
+  </figure>
+</div>
+
+<style>
+.project-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.project-gallery figure {
+  margin: 0;
+  text-align: center;
+}
+
+.project-gallery img {
+  display: block;
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 8px;
+  border: 1px solid #444;
+}
+
+.project-gallery figcaption {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  color: #aaa;
+}
+</style>
 **Tags:** `Unity` `C#`
 
 > This never went past alpha testing and bugs may be present. 
