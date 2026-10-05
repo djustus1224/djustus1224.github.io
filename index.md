@@ -181,6 +181,8 @@ background-color: #111;
 }
 </style>
 
+[GitHub Repo](https://github.com/djustus1224/Traversal-Project-UE5)
+
 ### Poppy Playtime Whitebox
 
 Playtime Whitebox — Survival Horror Game  
@@ -307,6 +309,8 @@ background-color: #111;
   color: #aaa;
 }
 </style>
+
+[GitHub Repo](https://github.com/connoryesukaitis-cmd/Central_Firmament)
 
 ### Captain Cosmo Character Model
 
